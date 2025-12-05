@@ -4,6 +4,10 @@
 
 //! Yorum satırı
 
-// TODO: Buraya yapamk sitedkelrini yazabilirsin 
-// TODO kurduğum bazı eklentiler
-// TODO 
+// TODO: Buraya yapmak istediklerini yazabilirsin 
+
+console.log("Beytullah");
+
+
+// Tüm logları kaldırma            >>  CTRL + SHİFT + D 
+// çoklu metni yorum satırına alma >>  CTRL + Ö 
